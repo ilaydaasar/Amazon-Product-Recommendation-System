@@ -1,0 +1,24 @@
+
+Rastgele seçilen kullanıcı: AE242TR3GQ6TYC6W4SJ5UYYKBTYQ
+Referans ürün: B09XJ1LM7R
+Hibrit öneriler (score ile birlikte):
+product_id                                                                                                                                                                                  product_name                                                                                           category    score  cb_score  rating_score  ncf_score
+B0BQRJ3C47 REDTECH USB-C to Lightning Cable 3.3FT, [Apple MFi Certified] Lightning to Type C Fast Charging Cord Compatible with iPhone 14/13/13 pro/Max/12/11/X/XS/XR/8, Supports Power Delivery - White                  Computers&Accessories|Accessories&Peripherals|Cables&Accessories|Cables|USBCables 0.807499  0.902301          1.00   0.488596
+B0B3JSWG81                   NGI Store 2 Pieces Pet Hair Removers for Your Laundry Catcher Lint Remover for Washing Machine Lint Remover Reusable Portable Silica Gel Clothes Washer Dryer Floating Ball Home&Kitchen|Kitchen&HomeAppliances|Vacuum,Cleaning&Ironing|Irons,Steamers&Accessories|LintShavers 0.621553  0.897031          0.62   0.255800
+==================================================
+
+Rastgele seçilen kullanıcı: AFPKVN5KLHB4MHSYDS25Q5MIWWKQ
+Referans ürün: B0B3JSWG81
+Hibrit öneriler (score ile birlikte):
+product_id                                                                                                                                                                                  product_name                                                                          category    score  cb_score  rating_score  ncf_score
+B0BQRJ3C47 REDTECH USB-C to Lightning Cable 3.3FT, [Apple MFi Certified] Lightning to Type C Fast Charging Cord Compatible with iPhone 14/13/13 pro/Max/12/11/X/XS/XR/8, Supports Power Delivery - White Computers&Accessories|Accessories&Peripherals|Cables&Accessories|Cables|USBCables 0.845305  0.889534          1.00   0.631638
+B09XJ1LM7R                                                                         7SEVEN® Compatible for Tata Sky Remote Original Set Top HD Box and Suitable for SD Tata Play setup Box Remote Control                       Electronics|HomeTheater,TV&Video|Accessories|RemoteControls 0.804626  0.897031          0.86   0.626044
+==================================================
+
+Rastgele seçilen kullanıcı: AGJC5O5H5BBXWUV7WRIEIOOR3TVQ
+Referans ürün: B0BQRJ3C47
+Hibrit öneriler (score ile birlikte):
+product_id                                                                                                                                                                product_name                                                                                           category    score  cb_score  rating_score  ncf_score
+B09XJ1LM7R                                                       7SEVEN® Compatible for Tata Sky Remote Original Set Top HD Box and Suitable for SD Tata Play setup Box Remote Control                                        Electronics|HomeTheater,TV&Video|Accessories|RemoteControls 0.826157  0.902301       1.00000   0.550790
+B0B3JSWG81 NGI Store 2 Pieces Pet Hair Removers for Your Laundry Catcher Lint Remover for Washing Machine Lint Remover Reusable Portable Silica Gel Clothes Washer Dryer Floating Ball Home&Kitchen|Kitchen&HomeAppliances|Vacuum,Cleaning&Ironing|Irons,Steamers&Accessories|LintShavers 0.665456  0.889534       0.72093   0.311213
+==================================================
