@@ -106,3 +106,6 @@ Top-N Selection: The top N products, ranked by the final score, are presented as
 -You can increase the NCF model size or the number of training epochs (epochs) for better performance.
 
 Output Example 📈
+
+![Ekran görüntüsü](output.png)
+
